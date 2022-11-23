@@ -24,8 +24,6 @@
 
 <img src="https://github.com/andeen171/Wallpapers/blob/main/img/nagatoro cat dark.png"/>
 
-<img src="https://github.com/andeen171/Wallpapers/blob/main/img/nagatoro cat pink.png"/>
-
 <img src="https://github.com/andeen171/Wallpapers/blob/main/img/nagatoro cat.png"/>
 
 <img src="https://github.com/andeen171/Wallpapers/blob/main/img/nika cat dark.png"/>
